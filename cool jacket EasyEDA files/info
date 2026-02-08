@@ -1,0 +1,354 @@
+{
+  "uuid": "b72a8c7e74a2f157d355718a8b9ee1ca",
+  "path": "Offline/cool jacket",
+  "name": "cool jacket",
+  "content": "",
+  "created_at": "2025-03-13 12:46:12",
+  "updated_at": "2025-07-27 11:07:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ac94c44e10fd1442b5aecbc9b91bd2c9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a68dc5e6a9944c46b7604648a43dcd65": 2,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 1,
+        "d851786b5c664ff789b13c0741460439": 2,
+        "64cf0424a8f141c2b7abeb20c073d70c": 1,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "a14cfe6f356acdeca5fedca1e2c2df10": 1,
+        "2f5c8276f8d64010877a8d3bb97697b8": 1,
+        "92c32ceaaac84139add7ebda884f0a47": 1,
+        "65b1ae295679465fabfb76c1fc7cc7e6": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "a7291ceaee5442a999df26c55c7e675d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          1,
+          "HDR-F-2.54_1X5",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50950"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C146690"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x6",
+          1,
+          "HDR-F-2.54_1X6",
+          "H29",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
+          }
+        ],
+        [
+          "DS18B20",
+          2,
+          "HDR-M-2.54_1X3",
+          "J1,J7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          1,
+          "HDR-M-2.54_1X8",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190820"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x20",
+          2,
+          "HDR-M-2.54_1X20",
+          "J5,J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50981"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "J6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "Self-locking switch 5.8ZWhite and white260G",
+          1,
+          "SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-TR",
+          "KEY1",
+          {
+            "Manufacturer Part": "Self-locking switch 5.8ZWhite and white260G",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C56857"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R_AXIAL-0.3",
+          "R44",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "STM32F103C8T6_BLUEPILL",
+          1,
+          "BLUEPILL",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1753546633,
+      "createTime": 1741850173,
+      "histories": [],
+      "created_at": "2025-03-13 12:46:13",
+      "updated_at": "2025-07-26 21:47:13"
+    },
+    {
+      "uuid": "27be076027cd50d6fcd52c4936f5231f",
+      "puuid": "b72a8c7e74a2f157d355718a8b9ee1ca",
+      "title": "PCB_cool jacket",
+      "filename": "PCB_cool jacket.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4bb67b2ac49a4595b3ed10b792fcbebb": 1,
+        "f83673d09e13450d934ca6be4be5af8f": 1,
+        "e86d43893d914130bd34765c00ed5f63": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 2,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "fb11a1cdebf6433b8a3c664a100689e6": 1,
+        "fa8b3531a8854d41bcf2c462cb2bfc07": 2,
+        "282f7786cb6144d097ae00194c3e3fb3": 1,
+        "3deaf8a6441f499eb29e1a9bf4f91a6d": 1,
+        "3eb1249f3ebb4284ae221b0379016582": 1,
+        "5a3b6004cadb40f5bf949d3c1b02fbf3": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x5",
+          1,
+          "HDR-F-2.54_1X5",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50950"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C146690"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x6",
+          1,
+          "HDR-F-2.54_1X6",
+          "H29",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
+          }
+        ],
+        [
+          "DS18B20",
+          2,
+          "HDR-M-2.54_1X3",
+          "J1,J7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180248"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          1,
+          "HDR-M-2.54_1X8",
+          "J4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190820"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x20",
+          2,
+          "HDR-M-2.54_1X20",
+          "J5,J9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C50981"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "J6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124378"
+          }
+        ],
+        [
+          "Self-locking switch 5.8ZWhite and white260G",
+          1,
+          "SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-TR",
+          "KEY1",
+          {
+            "Manufacturer Part": "Self-locking switch 5.8ZWhite and white260G",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C56857"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R_AXIAL-0.3",
+          "R44",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "STM32F103C8T6_BLUEPILL",
+          1,
+          "BLUEPILL",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1753594649,
+      "createTime": 1753546924,
+      "histories": [],
+      "created_at": "2025-07-26 21:52:04",
+      "updated_at": "2025-07-27 11:07:29"
+    }
+  ],
+  "sort": [
+    "e03c128c8ab55d9f1f6d90b125742274"
+  ],
+  "title": "cool jacket",
+  "foldername": "cool jacket",
+  "schfilename": "cool jacket.json",
+  "schfilemtime": 1753546633467
+}
